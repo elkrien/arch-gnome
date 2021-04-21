@@ -90,7 +90,6 @@ openssh						# premier connectivity tool for remote login with the SSH protocol
 ghostscript					# an interpreter for the PostScript language
 gsfonts						# (URW)++ Core Font Set [Level 2]
 gutenprint					# top quality printer drivers for POSIX systems
-gtk3						# GObject-based multi-platform GUI toolkit
 system-config-printer 		# CUPS printer configuration tool and status applet
 gvfs-smb					# virtual filesystem implementation for GIO (SMB/CIFS backend; Windows client)
 ttf-roboto					# Google's signature family of fonts
