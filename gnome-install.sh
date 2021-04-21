@@ -161,7 +161,6 @@ pamac-aur					# a Gtk3 frontend, Package Manager based on libalpm with AUR and A
 spotify						# a proprietary music streaming service
 typora						# MD editor
 zoxide-bin					# cd replacement
-kora-icon-theme				# icon theme suitable for every desktop environment (dark and light versions, HiDPI support)
 papirus-folders				# Allows to change the color of folders
 bibata-cursor-theme-bin		# mouse cursor theme
 ttf-ms-fonts				# core TTF fonts from Microsoft"
